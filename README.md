@@ -1,5 +1,7 @@
 ## Olá, eu sou Natália Oliveira! 👋🏽
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/naatlr)](https://github.com/naatlr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naatlr/)](https://www.linkedin.com/in/naatlr/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naaatlr)
 
 ![Natália GitHub stats](https://github-readme-stats.vercel.app/api?username=naatlr&show_icons=true&theme=dracula&count_private=true)
